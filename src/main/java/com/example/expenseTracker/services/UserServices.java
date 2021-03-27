@@ -2,7 +2,7 @@ package com.example.expenseTracker.services;
 
 import com.example.expenseTracker.domain.User;
 import com.example.expenseTracker.exceptions.EtAuthException;
-import org.springframework.web.filter.ShallowEtagHeaderFilter;
+
 
 public interface UserServices {
 
